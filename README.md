@@ -97,7 +97,6 @@ Note : File name should be with HDL Extension
            end initial
            #50 $finish;
            endmodule
-Developed by :- DEEPAN.A
 
 
 
